@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Answer of the burgesses and other inhabitants of the parish of Buckingham to a late scandalous pamphlet set forth by Sir Timber Temple.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25506</idno>
+            <idno type="STC">Wing A3288</idno>
+            <idno type="STC">ESTC R21312</idno>
+            <idno type="EEBO-CITATION">12296643</idno>
+            <idno type="OCLC">ocm 12296643</idno>
+            <idno type="VID">59043</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59043)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 908:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Answer of the burgesses and other inhabitants of the parish of Buckingham to a late scandalous pamphlet set forth by Sir Timber Temple.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Temple, Timber, --  Sir.</term>
+               <term>England and Wales. --  Parliament --  Elections.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:59043:1" rendition="simple:additions"/>
+            <head>THE ANSWER OF The BURGESSES and other INHABITANTS of the Pariſh of Buckingham, To a late ſcandalous Pamphlet ſet forth by Sir <hi>TIMBER TEMPLE.</hi>
+            </head>
+            <p>ALthough we have been ſo extremely unfortunate, by our late Election of the Lord <hi>Latimer</hi> and Sir <hi>Timber Temple</hi> for our Bur<g ref="char:EOLhyphen"/>geſſes this next Parliament, to diſoblige not onely the honeſt Gentry of the Neighbourhood, but of the whole County of <hi>Bucks,</hi> as alſo the better part of the Kingdom; yet having ſeen a moſt falſe and ſcandalous Pamphlet, pretended to be written for our Juſtification by Sir <hi>Timber Temple,</hi> which impartially, we muſt confeſs, contains in it (and that notoriouſly known to thouſands that were preſent at the Coun<g ref="char:EOLhyphen"/>ty Election) as many falſhoods as Sentences, and that the ſaid fooliſh Pam<g ref="char:EOLhyphen"/>phlet hath ſome malitious and inſignificant Reflections upon an honeſt and well-deſerving Gentleman of the Neighbourhood, <hi>viz.</hi> Sir <hi>John Busby,</hi> our conſtant and chiefeſt Benefactor; as alſo upon others that are, and have been our beſt friends: Therefore we think our ſelves obliged in Juſtice and Gra<g ref="char:EOLhyphen"/>titude, to vindicate the Honour and ſpotleſs Reputation of that prudent and moſt worthy Gentleman, Sir <hi>John Busby,</hi> from thoſe unjuſt reproaches he is moſt falſly charged withall by Sir <hi>Timber Temple</hi> in the ſaid Pamphlet, alledging the ſaid Sir <hi>John Busby</hi> to be a great incendiary amongſt his Neighbours, and to be a profeſſed Enemy to <hi>Buckingham;</hi> whereas we know, and muſt all confeſs, that the ſaid Sir <hi>John Busby</hi> hath been for theſe many years (as it is ſaid before) our chiefeſt Benefactor, a Gentleman and Friend, that hath always contrived and ſtudied our welfare, that hath year<g ref="char:EOLhyphen"/>ly at his Training nobly feaſted us, that hath endeavoured to ſuppreſs the raging malice of our Enemies, and of thoſe that ſought and threatned our ruine and confuſion; that hath moſt freely upon all occaſions ſpent his Mo<g ref="char:EOLhyphen"/>ney
+<pb n="2" facs="tcp:59043:2"/>amongſt us, notwithſtanding his near Neighbourhood to <hi>Winſlow,</hi> ſtill labouring to bring Trade and Traffick to our Corporation; that hath al<g ref="char:EOLhyphen"/>ways taken part with us when we had a good Cauſe, and chiefly to whoſe favour we owe the General Meetings of the Gentlemen at our Town, and to whom we have had conſtant Addreſs in all our neceſſities, misfortunes and difficulties, for advice and counſel, which he ever, with much diſcretion, gave us, to our certain advantage, if we had the luck to follow it: And we muſt here all candidly acknowledge, that if we had in due time taken his advice concerning the choice of our Burgeſſes to ſerve in Parliament, which was not onely in private, but publickly by him given to us all, we had not been ſo obnoxious to our Neighbours as we now are, nor diſtaſte<g ref="char:EOLhyphen"/>ful to the Kingdom; for the ſcorn, ſcourge, and reproach we now lie un<g ref="char:EOLhyphen"/>der he did then judiciouſly foreſee, and tell us, would aſſuredly be our doom, if we ſhould be ſo unadviſed to make choice of Sir <hi>Timber Temple;</hi> ſo that we cannot any longer excuſe our follies, which we now ſee and feel, to our own ſorrow and amazement; neither can we ſilently ſuffer this good Gentleman, our great Friend and beſt Neighbour, to be thus unworthily and injuriouſly traduc'd, a Perſon of that known Integrity, Judgment, and Induſtry, to ſerve his King and Country, that he is become the Favourite of all good men, and the fearful Dread of all leud debauched Perſons, and of all ſuch like Diſturbers of his Majeſties Peace. And this further we cannot but take notice of in his behalf, that what was intended by the detracting Libeller to diſgrace him, doth infinitely magnifie his Credit, ſince it appears, that the worſt of his Enemies, ſwell'd with prying envy and malice, after the ſtricteſt inquiry into his Life and Converſation, cannot in truth faſten upon him the leaſt imputation of guilt or unworthineſs. It is not the intent of this our Anſwer to make Reflections upon Sir <hi>Timber Temple,</hi> for that would ſtill more condemn our choice, which we do moſt heartily and hum<g ref="char:EOLhyphen"/>bly repent of, begging pardon of our Countrey-men for the ſame: But our chief aim is, hereby to vindicate our Friends from the falſe aſperſions of that ſcandalous Libel, which calumniates not onely the Living, but the Dead, and reproaches Mr. <hi>John Dormer,</hi> lately deceaſed, and that cannot ſpeak for himſelf, of the like offence, the Author of the ſaid Pamphlet hath ſo lately been guilty of, <hi>viz</hi> Bribery; for elſe we muſt ingeniouſly confeſs, though to our own ſhame, ſince we acknowledge our fault and repentance, that Sir <hi>Timble Temple</hi> had never been choſen, or perhaps thought of, to ſerve for the Town of <hi>Buckingham,</hi> either in the laſt, or in this next Parliament, by reaſon he was ſo backwards in performing thoſe firſt engagements which he formerly made to us by many Vows and Proteſtations, when we choſe him Burgeſs of the late long Parliament, that he now inſolently denies that he ever made any ſuch promiſe; whereas the thing is ſo plain and appa<g ref="char:EOLhyphen"/>rent, that no man living, but himſelf, would deny ſuch a known truth, at<g ref="char:EOLhyphen"/>teſted and confirmed by his name, Sir <hi>Timber,</hi> that ſhall eternally remain, in ſpight of Oaths and Perjury, to him and his poſterity for ever. As to that paſſage in the ſaid Pamphlet, relating to his Grace the Duke of <hi>Bucking<g ref="char:EOLhyphen"/>ham,</hi> who is ſaid, at the former Election, in a very ſtrange and extraordina<g ref="char:EOLhyphen"/>ry manner, to eſpouſe Sir <hi>Peter Tyrrell</hi>'s intereſt, we know not what Sir <hi>Timber Temple</hi> cavils at, unleſs he will be angry, that his Grace, and the reſt of the honeſt Gentry, then appearing for Sir <hi>Peter Tyrrell,</hi> did not think him
+<pb n="3" facs="tcp:59043:2"/>worthy of that favour and countenance; and thereupon Sir <hi>Timber Temple,</hi> in his foaming diſpleaſure, will not allow his Grace the priviledge of a Com<g ref="char:EOLhyphen"/>moner, becauſe he did not appear in his behalf; alledging, that the inter<g ref="char:EOLhyphen"/>medling with Peers of the Realm in Elections made by the Commons, is very Illegal; and we wiſh he could ſay and prove, never before practiſed in other places, nor ſhould be for the future; though we muſt acknowledge it, as our greateſt crime and folly, that we did not hearken to that wiſe and grave Counſel his Grace was ſo favourably pleaſed to give us. And con<g ref="char:EOLhyphen"/>cerning that eminent and over-buſie Perſon the Pamphlet ſpeaks of, ſtill reflecting, in dark terms, upon his Grace the Duke of <hi>Buckingham,</hi> who is ſaid to ſtrike at the head of the High Sheriff's Son with a great Truncheon of Oak, and that miſſing his blow, the Trunchion bruſh'd upon the young Man's belly; all which is ſo notoriouſly falſe, that thouſands can wit<g ref="char:EOLhyphen"/>neſs, that the Dude of <hi>Buckingham</hi> was then at a diſtance, and ſcarce ever ſaw the Sheriffs Son that day; and we know of no other eminent Perſon that rode with a Truncheon in his hand; ſo that if there was any riotous Aſſembly that day that concern'd themſelves in our County Election, it was Sir <hi>Timber Temple</hi>'s own Party, being about eight or ten inconſiderable perſons, that were met together by Sir <hi>Timber Temple</hi>'s procurement and inſtigation, on purpoſe to give the honeſt Free-holders all the diſturbance they could in their free Election; for which purpoſe alſo the day before, Sir <hi>Timber Temple</hi> had cajoll'd the High Sheriff to adjourn his Court from <hi>Alisbury</hi> to <hi>Bucking<g ref="char:EOLhyphen"/>ham,</hi> which he did accordingly; intending alſo to adjourn from <hi>Bucking<g ref="char:EOLhyphen"/>ham</hi> to ſome other place, with a deſign ſtill to weary out the Free-holders: Sir <hi>Timber Temple</hi> alſo having over night at <hi>Buckingham</hi> cauſed a Drum to be beaten, a Company of Tatterdemallion Boys of our Town, headed by Juſtice <hi>Riſely,</hi> Sir <hi>Timber Temple</hi>'s wiſe Brother in Law, being gathered to<g ref="char:EOLhyphen"/>gether, crying up, <hi>A Chester and a Verney.</hi> And we are certainly informed, that the proceedings of Sir <hi>Timber Temple</hi> in this A <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> were ſo ſpoliſh and ridiculous, and did ſo highly exaſperate the Free-holders that were met to<g ref="char:EOLhyphen"/>gether to make a free and good Election, being about ten thouſand perſons, all of one mind, that if he had appeared amongſt them in the Field, the ſame School-boys fate of the High Sheriff's Son, would, without doubt, ſeverely have fall'n upon him, and he had been, according to his deſerts, Caned and Whipped out of the Field home to his Cuſtom houſe for his Boyiſh mis<g ref="char:EOLhyphen"/>demeanors. But becauſe it is much wondered abroad, what was the end and deſign of Sir <hi>Timber Temple</hi>'s proceedings in this manner, contrary to the vogue of the whole County; we that were then his Confederates, and for whom he pretendedly acted, muſt give you this true account, that Sir <hi>Timber Temple</hi>'s chief deſign was, to heighten the charge of thoſe two worthy Gentlemen, Mr. <hi>Wharton</hi> and Mr. <hi>Hampden,</hi> that ſtood to be choſen for the County, being Gentlemen of another ſtamp, and of excellent Prin<g ref="char:EOLhyphen"/>ciples, quite different to Sir <hi>Timber Temple,</hi> that hoped thereby to cool their zeal for the Proteſtant Religion, and the good of their Countrey; and the rather, as he ſuppoſed, becauſe the ſaid two Gentlemen had been at a vaſt expence in Treating the Countrey at the former Election at <hi>Alisbury,</hi> where they paid for above ten thouſand Ordinaries. And his other great motive was, to complement us his Friends of <hi>Buckingham,</hi> at the general Charge of us the Free-holders of the County, which he thought would ex<g ref="char:EOLhyphen"/>cuſe
+<pb n="4" facs="tcp:59043:3" rendition="simple:additions"/>him two or three Entertainments at his Cuſtom-houſe, beſides thoſe uſual Preſents his pregnant Lady made to our Wives and Daughters. But what is deceitfully ſuggeſted relating to the High Sheriffs honour, Sir <hi>Timber Temple</hi> had not the leaſt regard unto; and it is much to be admired, how they two could have any fair correſpondence one with another, for that Sir <hi>Timber Temple,</hi> by his implacable and vexatious Suits, tending to over<g ref="char:EOLhyphen"/>throw the ſaid High Sheriffs new Incloſures, hath lately cauſed him to ex<g ref="char:EOLhyphen"/>pend in Law above five thouſand pounds. We hope that what we have here inſerted, in anſwer to that falſe, nonſenſical, and malitious Libel, will ſufficiently clear thoſe Gentlemen our good friends, whom Sir <hi>Timber Temple</hi> hath ſo much in vain laboured to reproach; and we do hereby ſolemnly proteſt, that if any thing of the like nature ſhall hereafter be attempted by Sir <hi>Timber Temple,</hi> or any of his malitious Complices, againſt us, or any of our friends, we ſhall particularly, without any falſe imputation, at large ſet forth and make known to the World (what we are here willing in ſome meaſure to conceal) <hi>ziz.</hi> the villanous Practiſes, damnable Cheats, Briberies, Extortions, Perjuries, and Subornations of Perjuries, Treachery, Whore<g ref="char:EOLhyphen"/>doms, and depraved Nature of this abominable Satyriſt; for though he doth conceal from us thoſe execrable Crimes he hath ſo darkly committed, for which by Law he deſerves the Gallows; yet we can fully charge and prove againſt him, with addition, all the former wicked and deteſtable impieties. Finally, we do again hereby profeſs our great obligations to Sir <hi>John Buſ<g ref="char:EOLhyphen"/>by;</hi> and although our preſent Bailiff, Mr. <hi>George Dancer,</hi> as alſo <hi>Henry Heyward</hi> the Barber, two ſworn Confederates with Sir <hi>Timber Temple,</hi> we fear to the utter ruine of themſelves, and our unhappy Corporation, will not give us their ſubſcriptions to this Recognition, yet all the reſt of us, both Burgeſſes and Inhabitants, do moſt freely and unanimouſly make this our anſwer and acknowledgment, which we ſhall for ever ſign and own, in ſpight of Sir <hi>Timber Temple</hi> and his accurſed Complices.</p>
+            <closer>
+               <dateline>
+                  <hi>Buckingham,</hi> 
+                  <date>
+                     <hi>Septemb.</hi> 16. 1679.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
